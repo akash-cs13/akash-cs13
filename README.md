@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1> Hi I'm Akash <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
 
 <!--
 **akash-cs13/akash-cs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
